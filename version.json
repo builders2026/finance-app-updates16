@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "apkUrl": "https://github.com/builders2026/finance-app-updates16/releases/download/v1.0.0/app-debug.apk",
-  "notes": "First release"
+  "apkUrl": "https://github.com/builders2026/finance-app-updates16/releases/download/v1.0.1/app-debug.apk",
+  "notes": "Added update checker"
 }
